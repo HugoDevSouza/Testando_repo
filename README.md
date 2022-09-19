@@ -18,3 +18,6 @@ Analise de teste do curso de git
 2. CARRINHO
 3. SEQUENCIA DE PEDIDOS
 
+#### Imagem git
+
+![Logo git](25231.png)
