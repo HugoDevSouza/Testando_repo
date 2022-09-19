@@ -38,3 +38,10 @@ function soma(a, b){
     return a + b;
 }
 ```
+
+## lista de tarefas a fazer:
+
+- [x] Login
+- [x] CSS da pagina de login
+- [x] JS da pagina de login
+- [] JS do ecommerce
