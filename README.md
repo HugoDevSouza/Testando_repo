@@ -29,3 +29,14 @@ Analise de teste do curso de git
 ##### Links
 
 [Clique aqui e va ao google](https://www.google.com.br)
+
+## Código da função soma
+
+```javascript 
+
+function soma(a, b){
+    return a + b;
+}
+
+
+```
