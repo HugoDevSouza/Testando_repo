@@ -37,6 +37,4 @@ Analise de teste do curso de git
 function soma(a, b){
     return a + b;
 }
-
-
 ```
