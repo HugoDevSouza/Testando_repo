@@ -25,3 +25,7 @@ Analise de teste do curso de git
 ### Imagem externa
 
 ![logo js](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/397px-Javascript-shield.svg.png)
+
+##### Links
+
+[Clique aqui e va ao google](https://www.google.com.br)
